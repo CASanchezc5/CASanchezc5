@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Carlos Andrés]
+# 👋 ¡Hola! Soy Carlos Andrés
 
 Soy un desarrollador de software junior con formación en química farmacéutica, apasionado por la programación y la resolución de problemas. He desarrollado proyectos academicos web usando tecnologías como **JavaScript, React, Node.js, HTML, CSS y Tailwind CSS**.
 
