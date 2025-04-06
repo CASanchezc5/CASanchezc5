@@ -32,7 +32,7 @@ Soy un desarrollador de software junior con formación en química farmacéutica
 ## 📫 ¿Dónde encontrarme?
 
 - ✉️ Correo: cascqf@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/carlos-andrés-sánchez)
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-andrés-sánchez)
 
 
 
