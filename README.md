@@ -41,6 +41,13 @@ Soy un desarrollador de software junior con formación en química farmacéutica
 Busco incorporarme a un equipo donde pueda aplicar mis habilidades como desarrollador web junior, aportar soluciones creativas y seguir aprendiendo en entornos reales.
 
 
+## 📈 GitHub Stats
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+
+
+
 
 ---
 
