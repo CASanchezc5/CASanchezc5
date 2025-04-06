@@ -43,8 +43,8 @@ Busco incorporarme a un equipo donde pueda aplicar mis habilidades como desarrol
 
 ## 📈 GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CASanchezc5&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CASanchezc5&layout=compact&theme=radical)
 
 
 
