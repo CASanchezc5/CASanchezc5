@@ -24,7 +24,7 @@ Soy un desarrollador de software junior con formación en química farmacéutica
 
 ## 📌 Proyectos destacados
 
-- 💻 [Proyecto integrador Gato Pardo](https://github.com/usuario/repositorio)  
+- 💻 [Proyecto integrador Gato Pardo]([https://github.com/usuario/repositorio](https://github.com/CASanchezc5/proyecto-integrador-web2-gatopardo.git))  
   Sitio web que se creo en react para finalización de semestre.
 
 
@@ -32,7 +32,14 @@ Soy un desarrollador de software junior con formación en química farmacéutica
 ## 📫 ¿Dónde encontrarme?
 
 - ✉️ Correo: cascqf@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/carlos-andrés-sánchez)  
+- 💼 [LinkedIn](www.linkedin.com/in/carlos-andrés-sánchez)
+
+
+
+## 🎯 Objetivo profesional
+
+Busco incorporarme a un equipo donde pueda aplicar mis habilidades como desarrollador web junior, aportar soluciones creativas y seguir aprendiendo en entornos reales.
+
 
 
 ---
