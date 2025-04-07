@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/banner.png" alt="Banner de Carlos Andrés" />
+  <img src="/banner_perfil.png" alt="Banner de Carlos Andrés" />
 </p>
 
 # 👋 ¡Hola! Soy Carlos Andrés
